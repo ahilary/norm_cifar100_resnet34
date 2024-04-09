@@ -1,0 +1,5 @@
+'' 
+results/ 
+.spyproject/ 
+__pycache__/ 
+notes.txt 
